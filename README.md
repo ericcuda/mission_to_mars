@@ -22,9 +22,9 @@ README.md (this readme.md file that you are reading)
 
 ## OUTPUT UPON A USER BUTTON CLICK
 
-<img src="screenshot1.png" align="middle" alt="Screenshot1" width="550"/>
-<img src="screenshot2.png" alt="Screenshot2" width="550"/>
-<img src="Screenshot3.png" alt="Screenshot3" width="550"/>
+<img src="screenshot1.PNG" align="middle" alt="Screenshot1" width="550"/>
+<img src="screenshot2.PNG" alt="Screenshot2" width="550"/>
+<img src="Screenshot3.PNG" alt="Screenshot3" width="550"/>
 
 ## TABLE OF CONTENTS
 
