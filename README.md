@@ -24,7 +24,7 @@ README.md (this readme.md file that you are reading)
 
 <img src="screenshot1.PNG" align="middle" alt="Screenshot1" width="550"/>
 <img src="screenshot2.PNG" alt="Screenshot2" width="550"/>
-<img src="Screenshot3.PNG" alt="Screenshot3" width="550"/>
+<img src="screenshot3.PNG" alt="Screenshot3" width="550"/>
 
 ## TABLE OF CONTENTS
 
