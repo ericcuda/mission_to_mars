@@ -1,5 +1,5 @@
 # mission_to_mars
-Mission To Mars Web Scraping Splinter Project
+Mission To Mars Web Scraping Python/Splinter/Flask/Jinja/MongoDB/HTML/Bootstrap Project
 
 PROJECT NAME: Mission To Mars  
 DESCRIPTION: Data Analytics Boot Camp  
@@ -7,9 +7,10 @@ DUE: 17Apr2019
 PROGRAMMER:  Eric Staveley  MWSa Session  
 
 SUMMARY:
-Develop web scraping script, implement with FLASK app.py and use a base index.html
+Develop web scraping python script, implement with FLASK app.py and use a base index.html
 template to dynamically adjust upon a user button click that refreshes a web scraping
-of various Mars sites, to show the user information on Mars.
+of various Mars sites and saves and retrieves to a Mongo (No SQL) database, 
+to show the user information on Mars.
 
 Files posted to this repo:
 mission_to_mars.ipynb (Jupyter Notebook File)
